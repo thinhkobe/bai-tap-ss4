@@ -1,0 +1,23 @@
+-id
+-class
+-tag name
+*
+:hover
+-active
+:focus
+-.list-item.item:chọn tát cả những class item là con 
+-::first-line:css cho dòng đầu tiên 
+-::first-letter:css cho chữ cái đầu tiên
+
+
+thẻ inline không áp dụng thuộc tính width và height
+inline-block các phần tử sắp xếp cùng một hàng 
+ có thể suwr dụng width và height
+
+ -position
+ +relitive vị trí tương đối:nó sẽ lấy phần tử đang đứng làm gốc 
+    tọa độ,nếu đứng 1 mình nó sẽ lấy trình duyệt làm gốc tọa độ
+ +absolute vị trí tuyệt đối:nó sẽ lấy phần tử cha gần nhất có thuộc tính 
+    position là relative hoặc absatule 
+ +fixed vị trí cố định
+ +sticky vị trí bám dính
